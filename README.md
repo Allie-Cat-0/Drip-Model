@@ -1,2 +1,2 @@
-# Crypto-Models
-Models to simulate certain cryptocurrency tokenomics to inform investing
+# Drip Model
+Model to simulate Drip Network vault in order to inform the Drip community.
